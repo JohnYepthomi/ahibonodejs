@@ -3,8 +3,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        <h1>AHIBO</h1>
-        <h3>We're coming soon..</h3>
+        <p className="brand">AHIBO</p>
+        <p className="message animate__animated animate__bounce animate__fadeInLeft">We're coming soon..</p>
     </div>
   );
 }
