@@ -1,0 +1,2 @@
+# ahibonodejs
+ahibo static deploy
